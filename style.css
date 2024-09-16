@@ -1,0 +1,40 @@
+
+h1{
+    color: red;
+}
+body{
+    background-color: black;
+    text-align: center;
+
+    text-align: center;
+}
+a{
+    color: red;
+}
+p{
+    color: white;
+}
+a href{
+    color: white;
+}
+
+
+div{
+    color: pink;
+    text-align: center;
+
+}
+fieldset{
+    text-align: center;
+}
+label{
+    color: white;
+    text-align: center;
+}
+legend{
+    color: white;
+    text-align: center;}
+
+.nav{
+    color: aqua;
+}
